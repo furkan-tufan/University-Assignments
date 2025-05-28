@@ -1,0 +1,3 @@
+﻿  Programlamaya Giriş 2.Ödev.cpp
+C:\Users\furka\source\repos\Programlamaya Giriş 2.Ödev\Programlamaya Giriş 2.Ödev\Programlamaya Giriş 2.Ödev.cpp(41,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Programlamaya Giriş 2.Ödev.vcxproj -> C:\Users\furka\source\repos\Programlamaya Giriş 2.Ödev\Debug\Programlamaya Giriş 2.Ödev.exe

@@ -1,0 +1,8 @@
+A#Keskin Sarı#2013
+A#Tarık Gelmez#2008
+B#Ayse Konar#2011
+A#Şükrü Papak#2012
+B#Aslı Gül#2007
+C#Burak Beyaz#2005
+B#Ali Hayra#2019
+B#Furkan Tufan#2018

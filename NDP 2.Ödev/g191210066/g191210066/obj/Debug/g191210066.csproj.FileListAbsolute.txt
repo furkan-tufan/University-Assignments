@@ -1,0 +1,10 @@
+C:\Users\furka\source\repos\g191210066\g191210066\obj\Debug\g191210066.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\g191210066\g191210066\obj\Debug\g191210066.Form1.resources
+C:\Users\furka\source\repos\g191210066\g191210066\obj\Debug\g191210066.Properties.Resources.resources
+C:\Users\furka\source\repos\g191210066\g191210066\obj\Debug\g191210066.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\g191210066\g191210066\obj\Debug\g191210066.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\g191210066\g191210066\bin\Debug\g191210066.exe.config
+C:\Users\furka\source\repos\g191210066\g191210066\bin\Debug\g191210066.exe
+C:\Users\furka\source\repos\g191210066\g191210066\bin\Debug\g191210066.pdb
+C:\Users\furka\source\repos\g191210066\g191210066\obj\Debug\g191210066.exe
+C:\Users\furka\source\repos\g191210066\g191210066\obj\Debug\g191210066.pdb

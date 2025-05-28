@@ -1,0 +1,11 @@
+AA       0
+BA       4
+BB       5
+CB       2
+CC       15
+DC       12
+DD       12
+FD       25
+FF       25
+Geçen öğrenci sayısı     50
+Kalan öğrenci sayısı     50

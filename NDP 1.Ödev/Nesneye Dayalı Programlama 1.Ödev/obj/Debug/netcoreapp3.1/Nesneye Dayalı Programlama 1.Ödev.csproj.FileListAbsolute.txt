@@ -1,0 +1,13 @@
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\bin\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.exe
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\bin\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.deps.json
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\bin\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.runtimeconfig.json
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\bin\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.runtimeconfig.dev.json
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\bin\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.dll
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\bin\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.pdb
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\obj\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\obj\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\obj\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\obj\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.AssemblyInfo.cs
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\obj\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.dll
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\obj\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.pdb
+C:\Users\furka\source\repos\Nesneye Dayalı Programlama 1.Ödev\Nesneye Dayalı Programlama 1.Ödev\obj\Debug\netcoreapp3.1\Nesneye Dayalı Programlama 1.Ödev.genruntimeconfig.cache
